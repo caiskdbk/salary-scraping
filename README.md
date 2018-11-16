@@ -8,3 +8,7 @@ Maybe some of you may say, of course I will just reduce my contribution to the 4
 * Even if you do pay attention to the 401(k), you may choose not to change anything on the 403(b) plan side because maybe some investment offered in 403(b) plan outperform everything in the 401(k) plan. 
 
 I have data of workers in a large non-profit employer. The problem is that salaries are collapsed into bins by data provider and I'd like to web scrap salary for the employer in a given year and later on use the actual salary data to randomly draw annual earnings from appropriate bins so that I can use imputed salary in my analysis later on.  
+
+
+* requirements.txt specify versions of all the packages I use in the code
+* Salary scrapy.py is the actual web-scraping code
